@@ -1,9 +1,5 @@
-- 👋 Hi, I’m @CosmeticGamer
-- 👀 I’m interested in coding fun little apps
-- 📫 How to reach me on discord my user is CosmeticGamer#4128
+- 👋 Hi, I’m @awsomegamer3004
+- 👀 I’m interested in github
+- 📫 How to reach me on discord my user is awsomegamer3004
 
 
-<!---
-CosmeticGamer/CosmeticGamer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
